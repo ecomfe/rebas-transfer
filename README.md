@@ -1,4 +1,4 @@
 rebas-transfer
 ===
 
-Transfer profiles to AMD modules
+Transfer profiles and templates to AMD modules
