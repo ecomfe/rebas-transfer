@@ -10,6 +10,8 @@
     }
   ],
   "license": "ISC",
+  "repository": "git://github.com/ecomfe/rebas-transfer.git",
+  "bugs": "https://github.com/ecomfe/rebas-transfer/issues",
   "dependencies": {
     "html2js": "0.0.3",
     "minimatch": "^2.0.1"
