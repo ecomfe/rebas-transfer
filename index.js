@@ -15,7 +15,7 @@ var handlers = {};
  *
  * @inner
  * @param {string} type 类型
- * @param {function} handler 处理器
+ * @param {Function} handler 处理器
  */
 function add(type, handler) {
     handlers[type] = handler;
@@ -30,9 +30,9 @@ add('template', require('./lib/template'));
  * 转化代码
  *
  * @public
- * @param {string} type
- * @param {string} data
- * @param {string} options
+ * @param {string} type 数据类型
+ * @param {string} data 数据
+ * @param {string} options 参数
  * @return {string}
  */
 module.exports = function (type, data, options) {
