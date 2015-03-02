@@ -14,7 +14,6 @@
   "bugs": "https://github.com/ecomfe/rebas-transfer/issues",
   "dependencies": {
     "c2a": "^0.2.0",
-    "html2js": "0.0.3",
-    "minimatch": "^2.0.1"
+    "html2js": "0.0.3"
   }
 }
