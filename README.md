@@ -1,4 +1,4 @@
 rebas-transfer
 ===
 
-Transfer profiles and templates to AMD modules
+Rebas helper, support handler for buiding and webserver.
