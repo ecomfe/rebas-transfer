@@ -1,7 +1,7 @@
 {
   "name": "rebas-transfer",
-  "version": "0.1.0",
-  "description": "Transfer profiles to AMD Modules",
+  "version": "0.4.0",
+  "description": "Rebas helper",
   "main": "index.js",
   "maintainers": [
     {
@@ -13,7 +13,7 @@
   "repository": "git://github.com/ecomfe/rebas-transfer.git",
   "bugs": "https://github.com/ecomfe/rebas-transfer/issues",
   "dependencies": {
-    "html2js": "0.0.3",
-    "minimatch": "^2.0.1"
+    "c2a": "^0.3.0",
+    "html2js": "^0.1.1"
   }
 }
