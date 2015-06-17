@@ -9,7 +9,7 @@
       "email": "c.xinle@gmail.com"
     }
   ],
-  "license": "ISC",
+  "license": "MIT",
   "repository": "git://github.com/ecomfe/rebas-transfer.git",
   "bugs": "https://github.com/ecomfe/rebas-transfer/issues",
   "dependencies": {
