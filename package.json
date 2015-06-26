@@ -1,6 +1,6 @@
 {
   "name": "rebas-transfer",
-  "version": "0.4.1",
+  "version": "0.6.0",
   "description": "Rebas helper",
   "main": "index.js",
   "maintainers": [
