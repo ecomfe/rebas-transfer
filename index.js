@@ -16,3 +16,10 @@ exports.builder = require('./lib/builder');
  * @public
  */
 exports.server = require('./lib/server');
+
+/**
+ * 模块合并配置
+ *
+ * @public
+ */
+exports.combine = require('./lib/combine');
